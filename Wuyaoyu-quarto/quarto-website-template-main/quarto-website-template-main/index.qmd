@@ -6,16 +6,16 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://github.com/nichen-boop/xj-em24a-014
+      href: This is WUYAOYU's GitHub
     - icon: github
       text: Github
-      href: https://github.com/nichen-boop/xj-em24a-014
+      href: This is WUYAOYU's GitHub
     - icon: linkedin
       text: LinkedIn
-      href: https://github.com/nichen-boop/xj-em24a-014
+      href: This is WUYAOYU's GitHub
     - icon: envelope
       text: Email
-      href: https://github.com/nichen-boop/xj-em24a-014
+      href: This is WUYAOYU's GitHub
 ---
 
 ::: {#about-block}

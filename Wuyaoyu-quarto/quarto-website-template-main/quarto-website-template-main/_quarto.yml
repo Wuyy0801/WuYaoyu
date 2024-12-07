@@ -2,8 +2,8 @@
 
 # website settings
 website:
-  title: "XuJie"                                # Your name
-  description: "about　XuJie"   # A brief slogan (optional)
+  title: "Wu Yaoyu"                                # Your name
+  description: "about　Wu Yaoyu"   # A brief slogan (optional)
   image: img/my_image.jpg
   
   favicon: img/favicon.png
@@ -27,11 +27,11 @@ website:
     type: textbox
   page-footer: 
     left: |
-      <span class="faux-block">XuJieXuJieXuJie</span>
+      <span class="faux-block">Wu YaoyuWu YaoyuWu Yaoyu</span>
     center: |
-      <span class="faux-block"><a href="">View the tutorial for this template!</a></span>
+      <span class="faux-block"><a href="">empty</a></span>
     right: |
-      <span class="faux-block"><a href="https://github.com/nichen-boop/xj-em24a-014">View source on GitHub</a></span>
+      <span class="faux-block"><a href="https://github.com/Wuyy0801/WuYaoyu">This is WUYAOYU's GitHub</a></span>
 
 project:
   type: website
