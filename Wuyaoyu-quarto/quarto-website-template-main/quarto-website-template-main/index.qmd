@@ -23,11 +23,15 @@ about:
 
 # Welcome to my website!
 
-I'm Jie Xu. I'm from China. My undergraduate degree is in Digital Media Technology at Southwest Petroleum University. Now I am studying for my master's degree, specializing in Educational Management at Belarusian State University.
+I am Wu Yaoyu, a Chinese student studying in Belarus who is full of desire for knowledge and loves to explore new things.In studying and working, always maintain a positive and enterprising attitude, and strive to improve one's professional skills and comprehensive quality.I have participated in skill competitions many times and obtained good results. These experiences not only exercised my abilities, but also made me more confident and determined.
+
+In life, I am cheerful and optimistic, good at communicating with people, and like to make like-minded friends. I believe that the collision of ideas between friends can produce wonderful sparks.I am also passionate about reading and sports.In these activities, I can relax my body and mind, while constantly expanding my horizons and way of thinking.
+
+I always have dreams and goals in my heart. I believe that as long as I work tirelessly, I will be able to leave a solid and wonderful footprint on the path of life, and work hand in hand with the people around me to create a better future together.
 
 ```{=html}
 <div  style="margin: 30px; text-align: center;">
-<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">XUJIE　XUJIE　XUJIE</a>
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">WUYAOYU WUYAOYU WUYAOYU</a>
 </div>
 ```
 
